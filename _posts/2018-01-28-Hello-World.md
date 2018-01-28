@@ -3,7 +3,7 @@ layout: post
 title: Hello World! Posting a Jupyter notebook to my Jekyll blog.
 ---
 
-### This is a test Jupyter notebook. We will convert this into markdown and put it on our Jekyll blog.
+This is a test Jupyter notebook. We will convert this into markdown and put it on our Jekyll blog.
 
 
 ```python
